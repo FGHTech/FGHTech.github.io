@@ -2,11 +2,17 @@
 layout: default
 ---
 
+{% include page-intro.html %}
 
-{% include post.html post=page %}
-
-{% if site.author.disqus %}
-    {% include externals/disqus.html %}
-{% endif %}
-
-{% include post/related.html %}
+<main id="main" class="page-content" aria-label="Content">
+  <div class="inner">
+    <article class="entry-wrap">
+      <div class="entry-content">
+        {{ content }}
+      </div>
+      {% if site.disqus.shortname %}
+        {% include disqus_comments.html %}
+      {% endif %}
+    </article>
+  </div>
+</main>
