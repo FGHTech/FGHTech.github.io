@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Cool shit comes in the toilt'
+landing-title: 'Welcome to the home of FGHTech'
 description: null
 image: null
 author: null

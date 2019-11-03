@@ -1,6 +1,7 @@
 ---
 layout: landing
-title: Services
+permalink: /Services
+title: What services does FGHTech provide??
 description:
 image: assets/images/pic07.jpg
 nav-menu: true

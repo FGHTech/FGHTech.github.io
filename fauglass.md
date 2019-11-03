@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FauGlass
+permalink: /FauGlass
 description: '/fəʊ ɡlɑːs/   |  noun.<br />1. Made in imitation; artificial.<br />‘a pair of faux glasses’'
 image: assets/images/pic11.jpg
 nav-menu: true

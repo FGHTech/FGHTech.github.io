@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: Who's Filip?
+permalink: /Filip
 nav-menu: true
 image: assets/images/pic10.jpg
 ---
@@ -12,7 +13,7 @@ image: assets/images/pic10.jpg
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Who's Filip?</h1>
 		</header>
 
 <!-- Content -->
