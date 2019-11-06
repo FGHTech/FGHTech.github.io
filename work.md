@@ -1,8 +1,8 @@
 ---
 layout: page
-title: FauGlass
-permalink: /fauglass
-description: '/fəʊ ɡlɑːs/   |  noun.<br />1. Made in imitation; artificial.<br />‘a pair of faux glasses’'
+title: Work
+permalink: /work
+description: 'Done work'
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
@@ -16,7 +16,7 @@ nav-menu: true
 	<div class="inner">
     <span class="image fit"><img src="assets/images/pic11.jpg" alt="" /></span>
 		<header class="major">
-			<h1>FauGlass</h1>
+			<h1>Work</h1>
 		</header>
 
 <!-- Content -->

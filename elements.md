@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who's Filip?
-permalink: /Filip
+permalink: /filip
 nav-menu: true
 image: assets/images/pic10.jpg
 ---

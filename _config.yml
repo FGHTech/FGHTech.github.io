@@ -1,8 +1,8 @@
 # site settings
 title: FGHTech
 subtitle: by Sweden
-email: youremailaddress@gmail.com
-description: Digital services, Webdevelopment,<br /> and Tech Startups.
+email: Shoot me a message through the form on your left!
+description: Digital services, Web development,<br /> and Tech Startups.
 permalink: 
 baseurl:  # the subpath of your site, e.g. /blog
 url: fghtech.com # the base hostname & protocol for your site
