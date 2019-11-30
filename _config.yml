@@ -5,7 +5,7 @@ email: Shoot me a message through the form on your left!
 description: Digital services, Web development,<br /> and Tech Startups.
 permalink: 
 baseurl:  # the subpath of your site, e.g. /blog
-url: fghtech.com # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 author:
 street_address: Runborgsvägen 8
 city: Täby
