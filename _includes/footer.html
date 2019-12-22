@@ -1,8 +1,11 @@
 <!-- Contact -->
 <section id="contact">
+	
 	<div class="inner">
+		
 		<section>
-			<form action="https://formspree.io/{{ site.email }}" method="POST">
+				<h2>Contact</h2>
+			<form action="https://formspree.io/mznzbovm" method="POST">
 				<div class="field half first">
 					<label for="name">Name</label>
 					<input type="text" name="name" id="name" />
@@ -67,6 +70,9 @@
 	<footer id="footer">
 		<div class="inner">
 			<ul class="icons">
+				{% if site.link_url %}
+				<li><a href="{{ site.link_url }}" class="icon alt fa-link" target="_blank"><span class="label">Link</span></a></li>
+				{% endif %}
 				{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 				{% endif %}

@@ -1,7 +1,7 @@
 # site settings
 title: FGHTech
 subtitle: by Sweden
-email: Shoot me a message through the form on your left!
+email: Shoot a message through the form!
 description: Digital services, Web development,<br /> and Tech Startups.
 permalink: 
 baseurl:  # the subpath of your site, e.g. /blog
@@ -22,13 +22,14 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/filip
+gitlab_url: 
+googleplus_url: 
+link_url: https://kabeltugg.se
+instagram_url: https://instagram.com/filipgure
+linkedin_url: https://www.linkedin.com/in/filipgh
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # build settings
 markdown: kramdown
