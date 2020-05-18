@@ -16,12 +16,12 @@ nav-menu: true
 	<div class="inner">
     <span class="image fit"><img src="assets/images/kabeltugglogo.png" alt="" /></span>
 		<header class="major">
-			<h1>Proof of concept</h1>
+			<h1>The webshop</h1>
 		</header>
 
 <!-- Content -->
 <!-- <h2 id="content">Sample Content</h2> -->
-<p style="font-style: normal;">Kabeltugg.se är en proof of concept webshop baserad på en ytterst annorlunda produkt.<br/>Genom att analysera och finna målgrupp användes riktad Facebook reklam och Instagram influensers för att uppnå en tillväxt från 0kr till +250k kr (1a December - 30e December)</p>
+<p style="font-style: normal;">Kabeltugg.se is a webshop based around the simple fact that charging cables do break.</p>
 
 
 <section id="two" class="spotlights">
@@ -32,9 +32,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Create a winning strategy</h3>
+					<h3>The Product</h3>
 				</header>
-				<p>Use up to date strategies in order to Capitalize on the market, and reap the benefits.</p>
+				<p>Small PVC cable protector that is made for the original Apple lightning connector.</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
@@ -64,9 +64,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Make sure you are seen by the right people!</h3>
+					<h3>Soon expanding to the Nordic countries</h3>
 				</header>
-				<p>A true seller can sell whatever to whomever, but it sure as hell pays off to find a good audience!</p>
+				<p>After infiltrating the Swedish market of cable protectors, Kabeltugg will move on to conquer all of the Norse countries.</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
