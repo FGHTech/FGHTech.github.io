@@ -82,7 +82,7 @@ nav-menu: true
 		<header class="major">
 		</header>
 		<ul class="actions">
-			<li><a href="/services" class="button next">Want to learn more about FGHTech?</a></li>
+			<li><a href="/services" class="button next">Learn more about FGHTech!</a></li>
 		</ul>
 	</div>
 </section>
