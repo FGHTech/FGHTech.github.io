@@ -50,7 +50,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Social media</h3>
 				</header>
-				<p>“The definition of insanity is doing the same thing over and over again, but expecting different results.” - Einstein<br/><br/>To be making the same mistake without iterating and staying ahead of the stream is important. Try, fail and try again with the new knowledge at hand.</p>
+				<p>Follow us on social media where we try to post as often as possible!</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
