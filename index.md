@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to the home of FGHTech'
+landing-title: 'FGHTech, the home of ecommerce'
 description: null
 image: null
 author: null

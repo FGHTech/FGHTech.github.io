@@ -15,7 +15,7 @@ nav-menu: true
 	<div class="inner">
     <span class="image fit"><img src="assets/images/fghtechpic1.jpg" alt="" /></span>
 		<header class="major">
-			<h1>What does FGHTech do?</h1>
+			<h1>What else does FGHTech do?</h1>
 		</header>
 
 <!-- Content -->
@@ -90,9 +90,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Business propositions</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Please shoot us a message through the form below for business propositions.</p>
 		<ul class="actions">
 			<li><a href="/services" class="button next">Get Started</a></li>
 		</ul>

@@ -12,7 +12,7 @@ city: Täby
 state: 
 zip_code: 18772
 country: Sweden
-phone: +46 76 402 66 44
+#phone: +46 76 402 66 44
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -24,9 +24,9 @@ facebook_url:
 github_url:
 gitlab_url: 
 googleplus_url: 
-link_url: https://kabeltugg.se
-instagram_url: https://instagram.com/filipgure
-linkedin_url: https://www.linkedin.com/in/filipgh
+link_url: 
+instagram_url: 
+linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url:
