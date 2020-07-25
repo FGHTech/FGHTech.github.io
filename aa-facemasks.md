@@ -45,6 +45,7 @@ nav-menu: true
 				<p>[Note] <i>Normal surgical masks only help decrease spread if the wearer is infected, but is generally not considered to protect oneself. Therefore FFP2 is a good option when in public.</i></p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">See certificates here.</a></li>
+					<li><a href="generic.html" class="button">BUY NOW!</a></li>
 				</ul>
 			</div>
 		</div>
