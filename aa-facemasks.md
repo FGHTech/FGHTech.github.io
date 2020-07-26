@@ -64,6 +64,22 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
+					<h3>FFP2 vs IIR Surgical mask</h3>
+				</header>
+				<p>Educate yourself on your purchase. Here is a screenshot from Wikipedia (25 July, 2020).</p>
+				<ul class="actions">
+					<li><a href="assets/images/FFP2IIR.jpeg" class="button">Go to Wikipedia</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+		<!--<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/FFP2Wikipedia.png" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
 					<h3>FFP2 info from Wikipedia</h3>
 				</header>
 				<p>Educate yourself on your purchase. Here is a screenshot from Wikipedia (25 July, 2020).</p>
@@ -72,7 +88,7 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section>-->
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/surgicalmask.png" alt="" data-position="center center" />
@@ -80,7 +96,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>The Surgical Mask</h3>
+					<h3>The IIR Surgical Mask</h3>
 				</header>
 				<p>When social distancing is not an option.</p>
 				<p>Example of when to use:<br>
