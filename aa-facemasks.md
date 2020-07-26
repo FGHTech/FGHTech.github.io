@@ -42,6 +42,13 @@ nav-menu: true
 				- Public areas<br>
 				<u>Stay safe with an FFP2 mask.</u>
 				</p>
+				<p>
+				<u>Classification:</u>
+				<b> FFP2</b> NR<br>
+				Model Number: BP001KN-95<br>
+				<u>CE certificate issued:</u><br>
+				25/06/2020 by Universal Certification in Europe<br>
+				</p>
 				<p>[Note] <i>Normal surgical masks only help decrease spread if the wearer is infected, but is not certified to protect oneself. Therefore FFP2 is a good option when around people not wearing mask.</i></p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">BUY NOW!</a></li>
