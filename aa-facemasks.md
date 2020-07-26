@@ -66,22 +66,30 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<!--<section>
+	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/kabeltuggpic8.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/surgicalmask.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Soon expanding to the Nordic countries</h3>
+					<h3>The Surgical Mask</h3>
 				</header>
-				<p>After infiltrating the Swedish market of cable protectors, Kabeltugg will move on to conquer all of the Norse countries.</p>
-				 <ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+				<p>When social distancing is not an option.</p>
+				<p>Example of when to use:<br>
+				- Grocery shopping<br>
+				- Traveling<br>
+				- Public areas<br>
+				<u>Help others by wearing a mask.</u>
+				</p>
+				<p>[Note] <i>Normal surgical masks only help decrease spread if the wearer is infected, but is generally not considered to protect oneself. Therefore FFP2 is a good option when in public.</i></p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">BUY NOW!</a></li>
+					<li><a href="assets/pdfs/SurgicalCert.pdf" class="button">See certificates here.</a></li>
 				</ul>
 			</div>
 		</div>
-	</section>-->
+	</section>
 </section>
 
 <br/><br/>
