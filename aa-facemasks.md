@@ -42,10 +42,10 @@ nav-menu: true
 				- Public areas<br>
 				<u>Stay safe with an FFP2 mask.</u>
 				</p>
-				<p>[Note] <i>Normal surgical masks only help decrease spread if the wearer is infected, but is generally not considered to protect oneself. Therefore FFP2 is a good option when in public.</i></p>
+				<p>[Note] <i>Normal surgical masks only help decrease spread if the wearer is infected, but is not certified to protect oneself. Therefore FFP2 is a good option when around people not wearing mask.</i></p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">BUY NOW!</a></li>
-					<li><a href="generic.html" class="button">See certificates here.</a></li>
+					<li><a href="assets/pdfs/SurgicalCert.pdf" class="button">See certificates here.</a></li>
 				</ul>
 			</div>
 		</div>
@@ -82,7 +82,7 @@ nav-menu: true
 				- Public areas<br>
 				<u>Help others by wearing a mask.</u>
 				</p>
-				<p>[Note] <i>Normal surgical masks only help decrease spread if the wearer is infected, but is generally not considered to protect oneself. Therefore FFP2 is a good option when in public.</i></p>
+				<p>[Note] <i>Normal surgical masks only help decrease spread if the wearer is infected, but is not certified to protect oneself. Therefore FFP2 is a good option when around people not wearing mask.</i></p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">BUY NOW!</a></li>
 					<li><a href="assets/pdfs/SurgicalCert.pdf" class="button">See certificates here.</a></li>
