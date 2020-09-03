@@ -59,16 +59,16 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/FFP2Wikipedia.png" alt="" data-position="top center" />
+			<img src="assets/images/FFP2IIR.jpeg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>FFP2 vs IIR Surgical mask</h3>
 				</header>
-				<p>Educate yourself on your purchase. Here is a screenshot from Wikipedia (25 July, 2020).</p>
+				<p>Educate yourself on your purchase. FFP2 provides a high level of filtration, while IIR Surgical masks provide moderate levels of filtration. IIR masks are single use disposable masks, compared to FFP2 masks which are reusable within their 4h service life (on your own risk). If the FFP2 mask is left for 2 weeks, it is normally safe to reuse see more <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153525/">here</a></p>
 				<ul class="actions">
-					<li><a href="assets/images/FFP2IIR.jpeg" class="button">Go to Wikipedia</a></li>
+					<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153525/" class="button">Reuse FFP2</a></li>
 				</ul>
 			</div>
 		</div>
