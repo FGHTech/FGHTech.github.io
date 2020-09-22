@@ -43,9 +43,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Web development</h3>
+					<h3>Webshops</h3>
 				</header>
-				<p>We develop custom web solutions. Everything from Webshops, Landing pages, Company profile sites. Developed individually to suit your needs.</p>
+				<p>We develop custom web solutions. Everything from Webshops, Landing pages, Company profiles.</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
@@ -61,7 +61,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Social media</h3>
 				</header>
-				<p>Finding and targeting the best audience can be hard. That's where we can help you.</p>
+				<p>Finding and targeting different audiences can be hard. That's where shine.</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
@@ -85,7 +85,7 @@ nav-menu: true
 		</div>
 	</section>
 </section>
-
+<br>
 <!-- Three -->
 <section id="three">
 	<div class="inner">
@@ -93,9 +93,9 @@ nav-menu: true
 			<h2>Business propositions</h2>
 		</header>
 		<p>Please shoot us a message through the form below for business propositions.</p>
-		<ul class="actions">
+		<!--<ul class="actions">
 			<li><a href="/services" class="button next">Get Started</a></li>
-		</ul>
+		</ul>-->
 	</div>
 </section>
 

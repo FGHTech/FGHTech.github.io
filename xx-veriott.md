@@ -1,9 +1,9 @@
 ---
 layout: page
-title: NORIE
-permalink: /norie
-description: 'Better cables.'
-image: assets/images/kabeltugglogo.jpg
+title: veriott.
+permalink: /veriott
+description: 'A new kind of perfume'
+image: assets/images/veriottlogo.png
 nav-menu: true
 ---
 
@@ -16,7 +16,7 @@ nav-menu: true
 	<div class="inner">
     <!--<span class="image fit"><img src="assets/images/norieconnector.png" alt="" /></span>-->
 		<header class="major">
-			<h1>NORIE</h1>
+			<h1>veriott.</h1>
 		</header>
 
 <!-- Content -->
@@ -27,32 +27,16 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/ladda-allt.jpg" alt="" data-position="center center" />
+			<img src="assets/images/veriott-tin.jpeg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>The Product</h3>
 				</header>
-				<p>Charging cable with magnetic tips that plug in to your phone.</p>
-				<!-- <ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul> -->
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/norieconnector.png" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Connectors</h3>
-				</header>
-				<p>By utilizing external connectors that remain in each device, the cable can work with all different devices.</p>
+				<p>Small tin can filled with 10g of the best perfume.</p>
 				<ul class="actions">
-						<li><a href="https://norie.se/" class="button">Go to website</a></li>
+						<li><a href="https://veriott.com/" class="button">Go to website</a></li>
 				</ul>
 			</div>
 		</div>

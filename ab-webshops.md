@@ -3,7 +3,7 @@ layout: page
 title: Webshops
 permalink: /webshops
 description: 'Browse all Webshops'
-image: assets/images/store.png
+image: assets/images/store.jpg
 nav-menu: true
 ---
 
@@ -26,8 +26,8 @@ nav-menu: true
 
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/kabeltuggpic5.jpg" alt="" data-position="center center" />
+		<a href="/kabeltugg" class="image">
+			<img src="assets/images/kabeltugglogo.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -42,8 +42,8 @@ nav-menu: true
 		</div>
 	</section>
 		<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/noriekabel.png" alt="" data-position="center center" />
+		<a href="/norie" class="image">
+			<img src="assets/images/norielogo.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -53,6 +53,22 @@ nav-menu: true
 				<p>Norie Sells magnetic charging cables for all your portable devices.</p>
 				<ul class="actions">
 					<li><a href="/norie" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+			<section>
+		<a href="/veriott" class="image">
+			<img src="assets/images/veriottlogo.png" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>veriott.</h3>
+				</header>
+				<p>Selling exclusive perfume in a brand new format.</p>
+				<ul class="actions">
+					<li><a href="/veriott" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
