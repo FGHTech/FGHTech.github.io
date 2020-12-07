@@ -14,7 +14,7 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-    <span class="image fit"><img style="height:30vh; width:auto; margin: 0 auto;" src="assets/images/whiteCertification1d5kpx.png" alt="" /></span>
+    <span class="image fit"><img style="height:auto; width:70%; margin: 0 auto;" src="assets/images/whiteCertification1d5kpx.png" alt="" /></span>
 		<header class="major">
 			<!--<h1>Swedish</h1>-->
 		</header>
