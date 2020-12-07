@@ -123,5 +123,3 @@ If you have found a store not on this list with our badge, STAY AWAY! And report
 
 
 
-
-</div>
