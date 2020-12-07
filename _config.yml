@@ -1,16 +1,16 @@
 # site settings
 title: FGHTech
 subtitle: by Sweden
-email: Shoot a message through the form!
+email: 
 description: Digital services, Web development,<br /> and Tech Startups.
 permalink: 
 baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: Runborgsvägen 8
-city: Täby
-state: 
-zip_code: 18772
+author: 
+street_address: FGHTech AB
+city: Krossbacken 8
+state: Täby
+zip_code: 18770
 country: Sweden
 #phone: +46 76 402 66 44
 
