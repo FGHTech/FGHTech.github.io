@@ -10,11 +10,6 @@ nav-menu: true
 <div id="main" class="alt">
 
 
-<script>
-	function goBack(){
-		window.history.back()
-	}
-</script>
 
 
 <!-- One -->
@@ -44,10 +39,6 @@ nav-menu: true
 
 För att en butik skall vara certifierad så skall den ha ikonen "FGHTech Certified webshop" och finnas med i listan i botten av denna sida. Dessutom skall ikonen gå att klicka på och ta dig till denna sida. <a href="#certifiedshops">Klicka här eller scrolla ner för att se de certifierade butikerna.</a></p>
 
-<ul class="actions">
-	<li><a href="#" onclick="history.back()" class="button">Jag är klar, gå tillbaka</a></li>
-</ul>
-
 <br><br>
 
 <h2 id="content">🇬🇧 Certification? What?</h2>
@@ -65,13 +56,6 @@ För att en butik skall vara certifierad så skall den ha ikonen "FGHTech Certif
 
 <br><b>How do i know for sure?</b><br>
 For a shop to be certified, it needs the icon "FGHTech Certified webshop" and it needs to be listed in the list at the bottom of the page. The icon must link to this page you are on currently visiting. <a href="#certifiedshops">Click here or scroll down to see the certified shops!</a></p>
-
-<ul class="actions">
-	<li><a href="#" onclick="history.back()" class="button">I'm done - go back</a></li>
-</ul>
-
-
-
 
 
 <br><br>
@@ -111,10 +95,9 @@ Vi certifierar därför andras webshoppar helt ideélt</p>
 - norie.se<br>
 - fidgetflip.se<br>
 - veriott.com<br>
+- mskydd.se<br>
 <br>
-		<ul class="actions">
-			<li><a href="#" onclick="history.back()" class="button">I'm done - take me back!</a></li>
-		</ul>
+
 If you have found a store not on this list with our badge, STAY AWAY! And report it to us through the form below. Also, if you have any complaints send us a message and we'll look over the webshop ⬇
 </p>
 
